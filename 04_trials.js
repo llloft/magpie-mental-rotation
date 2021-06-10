@@ -2,7 +2,7 @@
 
 function range(start, end) {
     var ans = [];
-    var path = 'C:\\Users\\sarah\\Documents\\Documents\\Uni\\Experimental_psychology_lab\\my-exp\\05-mental-rotation-images';
+    var path = '05-mental-rotation-images';
     for (let i = start; i <= end; i++) {
         ans.push(path+"\\"+i+"_50_same.jpg");
         ans.push(path+"\\"+i+"_50_different.jpg");
