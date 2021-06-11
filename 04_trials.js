@@ -48,7 +48,7 @@ const trial_info_practice = {
     key_press: [
         {
             question: "Are both objects the same or different?",
-            picture: "C:\\Users\\sarah\\Documents\\Documents\\Uni\\Experimental_psychology_lab\\my-exp\\05-mental-rotation-images\\13_50_same.jpg",
+            picture: "05-mental-rotation-images/13_50_same.jpg",
             item: 13,
             key1: 'q',
             key2: 'p',
@@ -59,7 +59,7 @@ const trial_info_practice = {
         },
         {
             question: "Are both objects the same or different?",
-            picture: "C:\\Users\\sarah\\Documents\\Documents\\Uni\\Experimental_psychology_lab\\my-exp\\05-mental-rotation-images\\13_50_different.jpg",
+            picture: "05-mental-rotation-images/13_50_different.jpg",
             item: 13,
             key1: 'q',
             key2: 'p',
@@ -70,7 +70,7 @@ const trial_info_practice = {
         },
         {
             question: "Are both objects the same or different?",
-            picture: "C:\\Users\\sarah\\Documents\\Documents\\Uni\\Experimental_psychology_lab\\my-exp\\05-mental-rotation-images\\13_150_same.jpg",
+            picture: "05-mental-rotation-images/13_150_same.jpg",
             item: 13,
             key1: 'q',
             key2: 'p',
@@ -81,7 +81,7 @@ const trial_info_practice = {
         },
         {
             question: "Are both objects the same or different?",
-            picture: "C:\\Users\\sarah\\Documents\\Documents\\Uni\\Experimental_psychology_lab\\my-exp\\05-mental-rotation-images\\13_150_different.jpg",
+            picture: "05-mental-rotation-images/13_150_different.jpg",
             item: 13,
             key1: 'q',
             key2: 'p',
@@ -92,7 +92,7 @@ const trial_info_practice = {
         },
         {
             question: "Are both objects the same or different?",
-            picture: "C:\\Users\\sarah\\Documents\\Documents\\Uni\\Experimental_psychology_lab\\my-exp\\05-mental-rotation-images\\14_50_same.jpg",
+            picture: "05-mental-rotation-images/14_50_same.jpg",
             item: 14,
             key1: 'q',
             key2: 'p',
@@ -103,7 +103,7 @@ const trial_info_practice = {
         },
         {
             question: "Are both objects the same or different?",
-            picture: "C:\\Users\\sarah\\Documents\\Documents\\Uni\\Experimental_psychology_lab\\my-exp\\05-mental-rotation-images\\14_50_different.jpg",
+            picture: "05-mental-rotation-images/14_50_different.jpg",
             item: 14,
             key1: 'q',
             key2: 'p',
@@ -114,7 +114,7 @@ const trial_info_practice = {
         },
         {
             question: "Are both objects the same or different?",
-            picture: "C:\\Users\\sarah\\Documents\\Documents\\Uni\\Experimental_psychology_lab\\my-exp\\05-mental-rotation-images\\14_150_same.jpg",
+            picture: "05-mental-rotation-images/14_150_same.jpg",
             item: 14,
             key1: 'q',
             key2: 'p',
@@ -125,7 +125,7 @@ const trial_info_practice = {
         },
         {
             question: "Are both objects the same or different?",
-            picture: "C:\\Users\\sarah\\Documents\\Documents\\Uni\\Experimental_psychology_lab\\my-exp\\05-mental-rotation-images\\14_150_different.jpg",
+            picture: "05-mental-rotation-images/14_150_different.jpg",
             item: 14,
             key1: 'q',
             key2: 'p',
@@ -136,7 +136,7 @@ const trial_info_practice = {
         },
         {
             question: "Are both objects the same or different?",
-            picture: "C:\\Users\\sarah\\Documents\\Documents\\Uni\\Experimental_psychology_lab\\my-exp\\05-mental-rotation-images\\15_50_same.jpg",
+            picture: "05-mental-rotation-images/15_50_same.jpg",
             item: 15,
             key1: 'q',
             key2: 'p',
@@ -147,7 +147,7 @@ const trial_info_practice = {
         },
         {
             question: "Are both objects the same or different?",
-            picture: "C:\\Users\\sarah\\Documents\\Documents\\Uni\\Experimental_psychology_lab\\my-exp\\05-mental-rotation-images\\15_50_different.jpg",
+            picture: "05-mental-rotation-images/15_50_different.jpg",
             item: 15,
             key1: 'q',
             key2: 'p',
@@ -158,7 +158,7 @@ const trial_info_practice = {
         },
         {
             question: "Are both objects the same or different?",
-            picture: "C:\\Users\\sarah\\Documents\\Documents\\Uni\\Experimental_psychology_lab\\my-exp\\05-mental-rotation-images\\15_150_same.jpg",
+            picture: "05-mental-rotation-images/15_150_same.jpg",
             item: 15,
             key1: 'q',
             key2: 'p',
@@ -169,7 +169,7 @@ const trial_info_practice = {
         },
         {
             question: "Are both objects the same or different?",
-            picture: "C:\\Users\\sarah\\Documents\\Documents\\Uni\\Experimental_psychology_lab\\my-exp\\05-mental-rotation-images\\15_150_different.jpg",
+            picture: "05-mental-rotation-images/15_150_different.jpg",
             item: 15,
             key1: 'q',
             key2: 'p',
