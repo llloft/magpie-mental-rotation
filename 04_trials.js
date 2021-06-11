@@ -4,10 +4,10 @@ function range(start, end) {
     var ans = [];
     var path = '05-mental-rotation-images';
     for (let i = start; i <= end; i++) {
-        ans.push(path+"\\"+i+"_50_same.jpg");
-        ans.push(path+"\\"+i+"_50_different.jpg");
-        ans.push(path+"\\"+i+"_150_same.jpg");
-        ans.push(path+"\\"+i+"_150_different.jpg");
+        ans.push(path+"/"+i+"_50_same.jpg");
+        ans.push(path+"/"+i+"_50_different.jpg");
+        ans.push(path+"/"+i+"_150_same.jpg");
+        ans.push(path+"/"+i+"_150_different.jpg");
     }
     return ans;
 }
